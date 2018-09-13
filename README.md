@@ -22,3 +22,5 @@ bureau['AMT_CREDIT_DEBT_RATE'] = bureau['AMT_CREDIT_SUM_DEBT']/(1 + bureau['AMT_
 We generated many models(dart, goss, catboost, xgb) with different features. When making meta-model, I used lightGBM and ElasticNet to make 30 oof predictions with different random seeds. Averaging these 30 predictions has our best private score. But we didn't select it. XD When using lightGBM, I also selected 90 features by feature importance from first layer model and added them to meta-model as features.
 
 Fan
+
+<img width="785" alt="wechat screenshot_20180913164638" src="https://user-images.githubusercontent.com/40473948/45514869-9cd38f80-b774-11e8-9590-b97fd5cfe760.png">
