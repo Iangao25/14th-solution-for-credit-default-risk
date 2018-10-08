@@ -1,5 +1,5 @@
 # the-rank14-solution-for-kaggle-home-credit-default-risk-competition
-Feature engineering part of our gold medal solution for Home Credit Default Risk Competition
+Feature engineering part of our gold medal solution for Home Credit Default Risk Competition at Kaggle
 
 # The features boosted my cv(just listing some of them):
 
